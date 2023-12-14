@@ -1,0 +1,4 @@
+site_name: University of Arizona High Performance Computing
+site_url: https://uarc.github.io
+theme:
+  name: gitbook
